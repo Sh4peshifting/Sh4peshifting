@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://github.com/Sh4peshifting/Sh4peshifting/#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Sh4peshifting&include_all_commits=true&count_private=true&layout=compact&theme=dracula&hide_border=true&border_radius=20" height=200 alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=Sh4peshifting&include_all_commits=true&count_private=true&layout=compact&theme=dracula&hide_border=true&border_radius=20" height=200 alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Sh4peshifting/Sh4peshifting/#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Sh4peshifting&include_all_commits=true&count_private=true&layout=compact&border_radius=20" height=200 alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/?username=Sh4peshifting&include_all_commits=true&count_private=true&layout=compact&border_radius=20" height=200 alt="GitHub Stats" />
 </a>
 <a href="https://github.com/Sh4peshifting/Sh4peshifting/#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4peshifting&layout=compact&theme=dracula&hide_border=true&border_radius=20" height=200 alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sh4peshifting&layout=compact&theme=dracula&hide_border=true&border_radius=20" height=200 alt="Top Languages" />
 </a>
 <a href="https://github.com/Sh4peshifting/Sh4peshifting/#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4peshifting&layout=compact&border_radius=20" height=200 alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sh4peshifting&layout=compact&border_radius=20" height=200 alt="Top Languages" />
 </a>
